@@ -1,0 +1,6 @@
+rules:
+  - DOMAIN-SUFFIX,steamcommunity.com,SpeedJP
+  - DOMAIN-SUFFIX,steampowered.com,SpeedJP
+  - DOMAIN-SUFFIX,steamstatic.com,SpeedJP
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,SpeedJP
+  - DOMAIN-SUFFIX,steamstore-a.akamaihd.net,SpeedJP
